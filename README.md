@@ -1,3 +1,3 @@
 # Startup
 
-https://chetzy.github.io/Startup/
+ https://andreichetan.github.io/Startup/
